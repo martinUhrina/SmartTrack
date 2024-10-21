@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClickAplication</string>
+    <string name="reset">RESET</string>
+    <string name="hight_score">Hight score</string>
+    <string name="hight_score_value">%d</string>
+    <string name="second_left">%d s</string>
+    <string name="click_fast">CLICK FAST!!!</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="HightScoreStyle">
+        <item name="android:textColor">#B60202</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="btnStyle">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:lineSpacingExtra">12sp</item>
+        <item name="strokeWidth">4sp</item>
+        <item name="android:textColor">@color/design_default_color_on_secondary</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="RoundedItemBackground">
+        <item name="android:background">@drawable/rounded_item_background</item>
+    </style>
+</resources>

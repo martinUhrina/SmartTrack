@@ -1,0 +1,6 @@
+<!-- rounded_item_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/background_defalt" /> <!-- farba pozadia -->
+    <corners android:radius="24dp" /> <!-- polomer zaoblenia v dp -->
+</shape>
